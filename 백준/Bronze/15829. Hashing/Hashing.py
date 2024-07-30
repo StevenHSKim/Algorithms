@@ -10,4 +10,4 @@ for i in arr:
     sum += idx * (31**cnt)
     cnt += 1
     
-print(sum)
+print(sum%1234567891)
